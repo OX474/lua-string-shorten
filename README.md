@@ -18,4 +18,6 @@ You simply execute it with your desired options and string
 This outputs:\
 `3 letter: "haa"`\
 `4 letter: "Gana"`\
-`5 letter: "Ghana"`
+`5 letter: "Ghana"`\
+
+Please reports any bugs to this repository.
